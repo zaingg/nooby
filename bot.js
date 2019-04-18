@@ -318,7 +318,7 @@ client.on('message', message => {
         .setTitle('**أوامر الميوزك...**')
         .setDescription('**برفكس البوت (!)**')
         .addField('play', 'لتشغيل اغنية')
-        .addField('join', 'دخول رومك الصوتي')
+        .addField('join', ' دخول رومك الصوتي جايج ساره')
         .addField('disconnect', 'الخروج من رومك الصوتي')
         .addField('skip', 'تخطي الأغنية')
         .addField('pause', 'ايقاف الاغنية مؤقتا')
