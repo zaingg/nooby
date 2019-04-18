@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`splay | YouTube`,"NOOB GAMER SARA")
+client.user.setGame(`_play | YouTube`,"NOOB GAMER SARA")
 client.user.setStatus("dnd")
 });
 
