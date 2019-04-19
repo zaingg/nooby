@@ -349,7 +349,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : EX Clan ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`1play | YouTube`,"https://www.twitch.tv/sara15151514")
+client.user.setGame(`1play | 1play`,"https://www.twitch.tv/sara15151514")
 client.user.setStatus("dnd")
 });
 
